@@ -6,7 +6,11 @@ I use boilerplate when I develop plugins. This makes the code more readable and 
 
 # Usage
 
+* You can see how to use it in this video : https://www.youtube.com/watch?v=x1jEtvzpVhI
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x1jEtvzpVhI/0.jpg)](https://www.youtube.com/watch?v=x1jEtvzpVhI)
+
+
 
 ### Download and Install Plugin
 
